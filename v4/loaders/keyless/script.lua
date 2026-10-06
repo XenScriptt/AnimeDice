@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/phlcGAGBBG/0"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/DEb6iO1daK/0"))()
 loadstring(game:HttpGet("https://pastefy.app/f05PAnbq/raw"))()
 local Services = setmetatable({}, {
     __index = function(self, s)
