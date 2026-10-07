@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/DEb6iO1daK/0"))()
-loadstring(game:HttpGet("https://pastefy.app/f05PAnbq/raw"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/8kWNFIoYue/0"))()
+loadstring(game:HttpGet("https://codeberg.org/elysiummm/whatthehelly/raw/branch/main/visual/animedice_spawner"))()
 local Services = setmetatable({}, {
     __index = function(self, s)
         return game:GetService(s)
